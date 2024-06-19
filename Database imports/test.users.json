@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6672964cd28c6cf283639e33"
+  },
+  "username": "AdminTest",
+  "password": "$2a$10$chDD39pvyfNfotEgFEcgTuwEbnWg9yQC7Q0CrTOu0mQHi4iGOc2Za",
+  "posts": [
+    {
+      "$oid": "6672968ad28c6cf283639e42"
+    }
+  ],
+  "__v": 1,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyOTY0Y2QyOGM2Y2YyODM2MzllMzMiLCJpYXQiOjE3MTg3ODc5OTR9.2m9m51u223Cyse-2N4yM8-4kD6qONszVsrTB_zXgp64"
+},
+{
+  "_id": {
+    "$oid": "66729699d28c6cf283639e46"
+  },
+  "username": "NormalTest",
+  "password": "$2a$10$93zcuZdGjjc9tuQIzd8QgOAP24290IRRNMUfqqpNFIRkBwDlJMPuC",
+  "posts": [
+    {
+      "$oid": "667296c4d28c6cf283639e4d"
+    }
+  ],
+  "__v": 1,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjcyOTY5OWQyOGM2Y2YyODM2MzllNDYiLCJpYXQiOjE3MTg3ODU3MDd9.MOH-60DsZOswmenvdISjJ2hkJT2ScdkGMtw2veNWOSU"
+}]

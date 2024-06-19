@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6672968ad28c6cf283639e42"
+  },
+  "title": "This is a post made by AdminTest",
+  "content": "hello i am a placeholder post",
+  "author": {
+    "$oid": "6672964cd28c6cf283639e33"
+  },
+  "likes": 0,
+  "category": "convention",
+  "time": "2024-06-20T14:29",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667296c4d28c6cf283639e4d"
+  },
+  "title": "i am a post made by NormalTest",
+  "content": "hello im a normal post",
+  "author": {
+    "$oid": "66729699d28c6cf283639e46"
+  },
+  "likes": 0,
+  "category": "festival",
+  "time": "2024-07-04T15:30",
+  "__v": 0
+}]
